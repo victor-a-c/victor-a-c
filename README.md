@@ -12,8 +12,8 @@
 
  <div>
   <a href="https://github.com/victor-a-c">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-a-c&show_icons=true&theme=chartreuse-dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-a-c&layout=compact&langs_count=7&theme=chartreuse-dark">
+  <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api?username=victor-a-c&show_icons=true&theme=chartreuse-dark">
+  <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-a-c&layout=compact&langs_count=7&theme=chartreuse-dark">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="V-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
