@@ -44,8 +44,12 @@
  <img align="center" alt="V-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
  <img align="center" alt="V-mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="V-Oracle" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="V-MicrosoftSQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+ <img align="center" alt="V-MicrosoftSQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
  <br>
+  
+ ##### Operational Systems
+ <img align="center" alt="Windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <img align="center" alt="Debian" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
  
  ##### Other technologies
  <img align="center" alt="V-RaspberryPi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
