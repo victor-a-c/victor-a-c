@@ -1,10 +1,10 @@
 ### Olá, meu nome é Victor
 
-<div>
+<!--<div>
   <a href="https://github.com/victor-a-c">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=victor-a-c&show_icons=true&theme=chartreuse-dark">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-a-c&layout=compact&langs_count=7&theme=chartreuse-dark">
-</div>
+</div>-->
  
 ***
 ## 💡 Skills
